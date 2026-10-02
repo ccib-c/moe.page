@@ -7,5 +7,5 @@
   "records": {
     "A": ["161.118.248.41"]
   },
-  "proxied": false
+  "proxied": true
 }
